@@ -1,0 +1,24 @@
+Office 2016 Activator
+
+cd /d %ProgramFiles%\Microsoft Office\Office16
+OR
+cd /d %ProgramFiles(x86)%\Microsoft Office\Office16
+
+Convert your Office to volume version if you are using retail one.
+
+for /f %x in ('dir /b ..\root\Licenses16\proplusvl_kms*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%x"
+
+Install Office client KEY/Activate office
+
+cscript ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
+cscript ospp.vbs /unpkey:BTDRB >nul
+cscript ospp.vbs /unpkey:KHGM9 >nul
+cscript ospp.vbs /unpkey:CPQVG >nul
+cscript ospp.vbs /sethst:107.175.77.7
+cscript ospp.vbs /setprt:1688
+cscript ospp.vbs /act
+
+Supported products:
+
+Microsoft Office Standard 2016
+Microsoft Office Professional Plus 2016
