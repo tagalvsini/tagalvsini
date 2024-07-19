@@ -1,5 +1,6 @@
-Office 2016 Activator
-
+MS Office 2016 Activator via Command Prompt
+1. Open Command Prompt and run as administrator
+Type
 cd /d %ProgramFiles%\Microsoft Office\Office16
 OR
 cd /d %ProgramFiles(x86)%\Microsoft Office\Office16
